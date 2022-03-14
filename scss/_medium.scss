@@ -1,0 +1,20 @@
+nav ul {
+display: flex;
+}
+
+nav ul li {
+    flex-basis: 25%;
+}
+
+nav a {
+    text-align: center;
+}
+
+main figure.myphoto {
+    width: 48%;
+}
+
+div.news {
+    clear: both;
+    column-count: 2;
+}
